@@ -1,0 +1,10 @@
+C:\Users\Aditya Jain\source\repos\Tipsy\bin\Debug\Tipsy.exe.config
+C:\Users\Aditya Jain\source\repos\Tipsy\bin\Debug\Tipsy.exe
+C:\Users\Aditya Jain\source\repos\Tipsy\bin\Debug\Tipsy.pdb
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.csproj.AssemblyReference.cache
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.TIPSY.resources
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.Properties.Resources.resources
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.csproj.GenerateResource.cache
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.exe
+C:\Users\Aditya Jain\source\repos\Tipsy\obj\Debug\Tipsy.pdb
